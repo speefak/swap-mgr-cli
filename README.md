@@ -1,3 +1,4 @@
+      Funktionen von swap-mgr-cli im Überblick
        -h		Hilfe anzeigen			Zeigt eine Übersicht aller verfügbaren Optionen.
        -s		Aktive Swaps anzeigen		Listet derzeit genutzte Swap-Dateien und -Partitionen auf.
        -u		Swap-Nutzung analysieren	Zeigt Prozesse, die Swap-Speicher verwenden, samt Speicherbedarf.
@@ -9,14 +10,7 @@
        -si		Skriptinformationen		Zeigt Name, Version und Speicherort des Skripts.
        		Keine Eingabeoption		Startet Skript in interaktiven Modus
 
-      
-      
-      
-      
-      
-      
-      
-      
+#------------------------------------------------------------------------------------------------------------------------------------------
       
       Usage: swap-mgr-cli_v1.2.sh <options> 
       -h			=> show help dialog 
