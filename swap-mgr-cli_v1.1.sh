@@ -1,6 +1,6 @@
 #!/bin/bash
 # name          : swap-mgr-cli
-# desciption    : website backupscript for database and website content
+# desciption	: manage swap files and partitions
 # autor         : speefak (itoss@gmx.de)
 # licence       : (CC) BY-NC-SA
 # version	: 1.1
