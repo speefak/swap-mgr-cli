@@ -8,3 +8,5 @@
       -d			=> choose and delete swapfile (except swap partitions) 
       -m			=> monochrome output 
       -si			=> show script information 
+
+      using dialog when no input options defined
