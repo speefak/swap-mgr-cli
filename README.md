@@ -10,7 +10,7 @@
        -si		Skriptinformationen		Zeigt Name, Version und Speicherort des Skripts.
        		Keine Eingabeoption		Startet Skript in interaktiven Modus
 
-#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#------------------------------------------------------------------------------------------------------------------------------
       
       Usage: swap-mgr-cli_v1.2.sh <options> 
       -h			=> show help dialog 
