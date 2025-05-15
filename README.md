@@ -1,4 +1,4 @@
-      Funktionen von swap-mgr-cli im Überblick
+      Funktionen von swap-mgr-cli
        -h		Hilfe anzeigen			Zeigt eine Übersicht aller verfügbaren Optionen.
        -s		Aktive Swaps anzeigen		Listet derzeit genutzte Swap-Dateien und -Partitionen auf.
        -u		Swap-Nutzung analysieren	Zeigt Prozesse, die Swap-Speicher verwenden, samt Speicherbedarf.
