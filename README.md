@@ -1,4 +1,4 @@
-   Usage: swap-mgr-cli_v1.2.sh <options> 
+Usage: swap-mgr-cli_v1.2.sh <options> 
      -h			=> show help dialog 
      -s			=> show swaps 
      -u			=> show swap usage 
